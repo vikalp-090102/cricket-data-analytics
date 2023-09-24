@@ -43,8 +43,8 @@ https://github.com/Kritarth2002/IPL_analysis_2008-2022/assets/98588519/a81f21eb-
 
 ## Contributors
 
-- [Kritarthy Bansal](https://github.com/kritarth2002) - Project Lead
-- Email: bansalkritarth10@gmail.com
+- [Vikalp Srivastava] - Project Lead
+- Email: vikalpsri090102@gmail.com
 
 If you have any questions, suggestions, or issues, please feel free to open an issue or contact us.
 
